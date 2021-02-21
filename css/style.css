@@ -920,13 +920,13 @@ a:focus {
 }
 
 .menu .menu-text {
-    width: calc(100% - 100px);
+    width: calc(100%);
 }
 
 .menu .menu-text h3 {
     position: relative;
     display: block;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 700;
 }
 
@@ -942,14 +942,12 @@ a:focus {
 
 .menu .menu-text h3 span {
     display: inline-block;
-    float: left;
-    padding-right: 5px;
+    padding-left: 5px;
     background: #ffffff;
 }
 
 .menu .menu-text h3 strong {
     display: inline-block;
-    float: left;
     padding-left:5px;
     color: #fbaf32;
     background: #ffffff;
