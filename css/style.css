@@ -884,7 +884,7 @@ a:focus {
     color: #ffffff;
     background: #fbaf32;
     border-radius: 5px;
-    margin: 0 5px;
+    margin: 3px 5px;
 }
 
 .menu .menu-tab .nav.nav-pills .nav-link:hover,
